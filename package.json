@@ -1,0 +1,22 @@
+{
+  "name": "flowerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "data-store": "^3.1.0",
+    "discord.js": "^11.4.2",
+    "random-item": "^1.0.0",
+    "random": "^2.0.12",
+    "random-int": "^1.0.0",
+    "set-interval": "^2.0.3",
+    "shuffle-array": "^1.0.1",
+    "tick-tock": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
